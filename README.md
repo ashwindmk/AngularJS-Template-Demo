@@ -4,7 +4,9 @@ Angular JS project demonstrates how to include HTML templates in multiple files 
 
 ### Setup
 
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+```html
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+```
 
 ### Code
 
